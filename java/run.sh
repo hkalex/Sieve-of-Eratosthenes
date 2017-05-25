@@ -1,0 +1,1 @@
+javac SDApp.java && java SDApp
