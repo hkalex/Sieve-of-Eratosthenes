@@ -33,4 +33,6 @@ Here is the formula
 | Cython | 100M | 1349 | Not optimized |
 | Cython | 100M | 220 | Optimzed |
 | GoLang | 10M | 400 | 100M caused stackoverflow |
+| Java 1.8 | 100M | 250 ||
+
 
