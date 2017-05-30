@@ -24,7 +24,7 @@ Here is the formula
 ## Result of Standard Deviation
 | Language | Number of Elements  | Time(ms)  | Remarks |
 | ---------- |:-------------:| -----:| ---:|
-| C# | 100M | 4862 ||
+| C# | 100M | 4862 | .Net Core on Mac |
 | JS | 100M | 900 | node4 |
 | JS | 100M | 700 | node7 |
 | NodeAddOn | 100M | 13000 | NodeV7 + Nan + C++, not optimized |
@@ -32,7 +32,7 @@ Here is the formula
 | Python3 | 100M | 22985 ||
 | Cython | 100M | 1349 | Not optimized |
 | Cython | 100M | 220 | Optimzed |
-| GoLang | 10M | 400 | 100M caused stackoverflow |
+| GoLang | 100M | 3500 | |
 | Java 1.8 | 100M | 250 ||
 
 
